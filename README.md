@@ -10,6 +10,8 @@ will reformat the contents of your buffer.
 M-x reindent-buffer
 ```
 
+This command could also be bound to a keybinding of your choice. 
+
 ## Installation
 
 Place `reindent-buffer.el` in your `.emacs.d` and require it in your `init.el`.
